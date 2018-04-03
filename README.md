@@ -1,6 +1,6 @@
 # Using rust modules for JavaScript/Web Development [Blog series]
 
-**The repo contains the demo code for the blog series in medium**
+**This repo contains the demo code for the blog series in medium**
 
 Part 1:
 
