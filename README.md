@@ -33,3 +33,6 @@ https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-developmen
 - **webwasm** -> Pure JS project that is used to integrate js and wasm.
 - **webpackasm** -> Webpack based project used to integrate js and rust.
 - **noderust** -> Rust modules in nodejs using foreign function invocation.
+
+
+**PS: Do not forget to do npm install on the respective directories**
