@@ -19,7 +19,17 @@ https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-developmen
 
 --------------------------
 
+Part 3:
+
+**Using rust modules for JavaScript/Web Development (Part 3/ 3) [NodeJS]**
+
+https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-3-3-nodejs-7c71e4ae23fe
+
+--------------------------
+
+
 ### Folder structure:
 - **web** -> Rust cargo project that implements a simple calculator.
 - **webwasm** -> Pure JS project that is used to integrate js and wasm.
 - **webpackasm** -> Webpack based project used to integrate js and rust.
+- **noderust** -> Rust modules in nodejs using foreign function invocation.
