@@ -1,0 +1,19 @@
+{
+  "name": "webpackasm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Atul R <atulanand94@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "build": "webpack -p && cp index.html dist/index.html",
+    "clean": "rm -rf ./dist/*"
+  },
+  "devDependencies": {
+    "rust-native-wasm-loader": "^0.7.0",
+    "wasm-loader": "^1.3.0",
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13",
+    "webpack-dev-server": "^3.1.1"
+  }
+}

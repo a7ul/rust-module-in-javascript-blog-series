@@ -1,0 +1,9 @@
+[package]
+name = "web"
+version = "0.1.0"
+authors = ["Atul R <atulanand94@gmail.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
